@@ -470,8 +470,3 @@ body.black-cursor select {
 .menu li a:not([data-description])::after {
     content: none;
 }
-
-
-
-
-
